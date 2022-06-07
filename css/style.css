@@ -60,7 +60,7 @@ img{
 .girar{
     animation-name:girar;
     animation-iteration-count: infinite ;
-    animation-duration: 120s;
+    animation-duration: 2s;
 }
 
 @keyframes girar{
